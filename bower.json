@@ -1,6 +1,6 @@
 {
   "name": "ripple_effect.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/ripple_effect.js",
   "authors": [
     "daisuke.takayama"
